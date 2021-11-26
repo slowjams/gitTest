@@ -1,2 +1,3 @@
 Hello World!
 My favourite programming language is C#
+My second programming language is Javascript
