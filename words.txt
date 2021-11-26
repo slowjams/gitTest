@@ -1,2 +1,5 @@
 Hello World!
-My favourite programming language and framework is C# and .net
+
+My favourite programming language is C#
+My second programming language is Javascript
+
